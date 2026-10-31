@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**mirellakd/mirellakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação** (4º semestre) e Jovem Aprendiz em **Automações e Eficiência Operacional**. Transformo processos manuais em fluxos automatizados e crio soluções com IA.
 
-Here are some ideas to get you started:
+## 🛡️ Projeto em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Safe Place](https://mirellakd.github.io/SafePlace/)**: site gratuito e acessível que ensina pessoas com pouca familiaridade digital a reconhecer golpes e a usar o celular com segurança. [Código no GitHub](https://github.com/mirellakd/SafePlace)
+
+## 💼 Experiência (resumo)
+
+- Automações no n8n para diferentes áreas, de fluxos simples a processos completos (como reembolsos e offboarding)
+- Duas plataformas desenvolvidas com apoio de IA: gestão unificada de milhas e geração de devolutivas em PDF
+
+## 🧰 Ferramentas
+
+n8n · Docker · Git e GitHub · VS Code · Claude Code · Google AI Studio · Supabase · Firebase · Lovable · Java (básico) · Agno
+
+## 🌱 Em foco agora
+
+Agentes de IA e engenharia de software com foco em soluções de IA.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/mirella-de-deus-96a093332)
