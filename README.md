@@ -13,7 +13,7 @@ Estudante de **Ciência da Computação** (4º semestre) e Jovem Aprendiz em **A
 
 ## 🧰 Ferramentas
 
-n8n · Docker · Git e GitHub · VS Code · Claude Code · Google AI Studio · Supabase · Firebase · Lovable · Java (básico) · Agno
+n8n · Docker · GitHub · VS Code · Claude Code · Google AI Studio · Supabase · Firebase · Lovable · Java (básico) · Agno · Make
 
 ## 🌱 Em foco agora
 
